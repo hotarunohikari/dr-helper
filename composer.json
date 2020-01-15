@@ -1,0 +1,11 @@
+{
+    "name": "hotarunohikari/dr-helper",
+    "description": "some tool class",
+    "authors": [
+        {
+            "name": "wxl",
+            "email": "1445598659@qq.com"
+        }
+    ],
+    "require": {}
+}
