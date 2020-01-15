@@ -1,11 +1,26 @@
 {
     "name": "hotarunohikari/dr-helper",
     "description": "some tool class",
+	"license": "MIT",
     "authors": [
         {
-            "name": "wxl",
-            "email": "1445598659@qq.com"
+            "name": "hotarunohikari",
+            "email": "machigaisagashi@163.com",
+			"homepage": "https://github.com/hotarunohikari"
         }
     ],
-    "require": {}
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.0.0",
+		"ext-json": "*",
+        "ext-mbstring": "*",
+        "ext-bcmath": "*",
+		"topthink/think-installer":">=1.0.0",
+		"topthink/framework": "^5.0"
+	},
+	"autoload": {
+        "psr-4": {
+            "dr\\": "dr/src"
+        }
+    }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace dr\base\str;
+namespace dr\src\str;
 /**
  * author      : Qttx 摩羯Ж'
  * mtime       : 2019/12/31 12:47
