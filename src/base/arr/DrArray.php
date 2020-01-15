@@ -1,6 +1,6 @@
 <?php
 
-namespace dr\src\arr;
+namespace dr\base\arr;
 
 /**
  * author      : Qttx 摩羯Ж'

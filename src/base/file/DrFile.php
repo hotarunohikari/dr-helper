@@ -6,7 +6,7 @@
  * description : 文件操作类工具包
  */
 
-namespace dr\src\file;
+namespace dr\base\file;
 
 
 class DrFile
